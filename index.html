@@ -431,8 +431,8 @@
     </div>
     
     <div class="btn-group" style="width:100%; padding-left: 1em; padding-right: 1em; padding-bottom: 1em;">
-      <button style="width:33.3%; border-top-left-radius: 0.4em; border-bottom-left-radius: 0.4em; border-right: 0.05em solid white;">Contact</button>
-      <button onclick="donate()" style="width:33.3%; border-right: 0.01em solid white;">Donation</button>
+      <button onclick="profile()" style="width:33.3%; border-top-left-radius: 0.4em; border-bottom-left-radius: 0.4em; border-right: 0.05em solid white;">Profile</button>
+      <button onclick="donation()" style="width:33.3%; border-right: 0.01em solid white;">Donation</button>
       <button onclick="stock()" style="width:33.3%; border-top-right-radius: 0.4em; border-bottom-right-radius: 0.4em;">Stock</button>
     </div>
     
@@ -480,14 +480,19 @@
       document.documentElement.scrollTop = 0;
       }
       
-      // When the user clicks smiley button
-      function donate(){
+      // When the user clicks donation button
+      function donation(){
       window.location='https://forms.gle/iqfMJEQA5JVUfRHQ9';
       }
       
       //When the user clicks stock button
       function stock(){
       window.location='https://docs.google.com/spreadsheets/d/1pLzU_qq8tKsOu_YEbMXPUk1Ny-3JR4duG-TXM9TcbDU/edit?usp=sharing';
+      }
+	 
+      //When the user clicks profile button
+      function profile(){
+      window.location='https://docs.google.com/document/d/1IXY3sdIDUauOR78L6O070x-8XM7EyclGSrOyhiCgcAc/edit?usp=sharing';
       }
     </script>
   </body>
