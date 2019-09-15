@@ -1,3 +1,3 @@
 # ximpan
 Ximpan Official Website Interface v0.1.0.
-> Feel free to contribute as long as it could make you feel better.
+> It will be better if we could build from nothing into something together
