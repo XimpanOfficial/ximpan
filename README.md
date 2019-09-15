@@ -8,5 +8,5 @@ Plus, it will be a good fortune to develop this site together.
 Plusplus, there are a lot of good beans here. Please consider to take a **[visit](https://en.wikipedia.org/wiki/Indonesia)**
 
 Have a good one!
----
+***
 PS: _this site is under continous development_
