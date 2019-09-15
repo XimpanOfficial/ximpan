@@ -9,4 +9,4 @@ Plusplus, there are a lot of good beans here. Please consider to take a **[visit
 
 Have a good one!
 ***
-PS: _this site is under continous development_
+Note : _this site is under continous development_
