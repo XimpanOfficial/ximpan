@@ -7,6 +7,6 @@ While you have time to share with us, please don't be hestitate to **mail** **at
 Plus, it will be a good fortune to develop this site together.
 Plusplus, there are a lot of good beans here. Please consider to take a **[visit](https://en.wikipedia.org/wiki/Indonesia)**
 
-Have a good one!
+Have a good one everyone!
 ***
-Note : _this site is under continous development_
+_Note : this site is under continous development_
